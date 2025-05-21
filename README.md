@@ -116,41 +116,7 @@ http://localhost:8085/EPCWK-filmsWebApp/films.html
 
 ## Project Structure
 
-```
-EPCWK-filmsWebApp/
-│
-├── films.html                 # Entry point for the Webix UI
-│
-├── META-INF/
-│   └── MANIFEST.MF
-│
-├── WEB-INF/
-│   ├── web.xml
-│   ├── classes/
-│   │   ├── controllers/
-│   │   │   ├── DeleteServlet.class
-│   │   │   ├── FilmAPI.class
-│   │   │   ├── FilmController.class
-│   │   │   ├── InsertServlet.class
-│   │   │   └── UpdateServlet.class
-│   │   ├── database/
-│   │   │   └── FilmDAO.class
-│   │   └── models/
-│   │       ├── Film.class
-│   │       └── FilmWrapper.class
-│   └── lib/
-│       ├── gson-2.8.5.jar
-│       ├── jstl-1.2.jar
-│       ├── mysql-connector-j-8.0.32.jar
-│       ├── jaxb-*.jar
-│       └── others...
-│
-├── css/
-│   └── styles.css
-│
-└── scripts/
-    └── filmsWebix.js
-```
+![alt text](assets/image.png) ![alt text](assets/image-1.png)
 
 ---
 
