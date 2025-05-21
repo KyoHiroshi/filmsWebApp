@@ -156,7 +156,7 @@ EPCWK-filmsWebApp/
 
 ## Screenshots
 
-<See EP Assignment - Evidence Screenshots.docx: [text](https://github.com/KyoHiroshi/filmsWebApp/blob/main/EP%20Assignment%20-%20Evidence%20Screenshots.docx)>
+<See [EP Assignment - Evidence Screenshots.docx](https://github.com/KyoHiroshi/filmsWebApp/blob/main/EP%20Assignment%20-%20Evidence%20Screenshots.docx)>
 
 ---
 
