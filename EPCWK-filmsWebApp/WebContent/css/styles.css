@@ -1,0 +1,52 @@
+/* Custom CSS styles */
+
+/* Set a custom font for the table headers and cells: */
+.webix_hcell {
+	font-weight: bold;
+	font-size: 14px;
+	font-family: Arial, sans-serif;
+}
+
+.webix_cell {
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+}
+
+/* Add alternating row colors: */
+.webix_row_odd {
+	background-color: #f5f5f5;
+}
+
+.webix_row_even {
+	background-color: #ffffff;
+}
+
+.webix_column > div.webix_row_select {
+	color: black;
+	background-color: lightgreen !important;
+}
+
+/* Add a hover effect on rows when they are moused over: */
+.my_hover {
+	background-color: #eaeaea;
+}
+
+/* Add a border around the table: */
+.webix_datatable {
+	border: 1px solid #dcdcdc;
+	overflow-y: scroll;
+}
+
+.webix_cell_ellipsis > div {
+	overflow-y: scroll;
+}
+
+/* Style for loading overlay */
+.webix_overlay {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    color: #666;
+    background-color: rgba(255, 255, 255, 0.9);  /* white background with 90% opacity */
+    text-align: center;
+    padding-top: 20%;  /* vertically center the text */
+}

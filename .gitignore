@@ -1,0 +1,26 @@
+# Java classes
+*.class
+
+# Logs
+*.log
+
+# Eclipse / VS Codium / IntelliJ
+*.iml
+.idea/
+.vscode/
+.project
+.classpath
+.settings/
+
+# Build directories
+target/
+bin/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Credentials (if any)
+*.env
+config.properties
