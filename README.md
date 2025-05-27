@@ -122,7 +122,7 @@ http://localhost:8085/EPCWK-filmsWebApp/films.html
 
 ## Screenshots
 
-<See [EP Assignment - Evidence Screenshots.docx](https://github.com/KyoHiroshi/filmsWebApp/blob/main/EP%20Screenshots.docx)>
+<See [EP Screenshots.docx](https://github.com/KyoHiroshi/filmsWebApp/blob/main/EP%20Screenshots.docx)>
 
 ---
 
